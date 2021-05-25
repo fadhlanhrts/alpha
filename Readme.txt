@@ -1,0 +1,1 @@
+This project serves as part of my technical interview process for fintax
