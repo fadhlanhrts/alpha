@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<project basedir="." default="client">  
+
+    <target name="client"> 
+        <java classname = "Client">
+            <classpath path="/Users/fadhlan/Downloads/Alpha/apache-ant-1.10.10/bin/"></classpath>
+        </java>
+    </target>
+      
+</project>
