@@ -1,4 +1,4 @@
-This project serves as part of my technical interview process for fintax
+This project serves as part of my technical interview process for Fintax
 
 To use this project 
 1. Download all the files (mainly Client and Server files) and move them into the same folder or directory
@@ -14,8 +14,7 @@ To use this project
     nodeXYZ
 7. The password for nodeABC is PazA999 and the password for nodeXYZ is PazZ111
 8. Using other passwords will result in the number of attempts being increased by the program, to see the 
-total number of attempts enter the correct password for one of the login accounts and the result will be shown at 
-the server window 
+total number of attempts enter the correct password for one of the login accounts and the result will be shown at the server window 
 
 
 
